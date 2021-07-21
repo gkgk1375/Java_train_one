@@ -1,6 +1,6 @@
 package chap07;
 
-public class CellPhone {
+public class CellPhone {//부모클래스
 	//필드
 	String model;
 	String color;

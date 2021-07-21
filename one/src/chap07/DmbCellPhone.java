@@ -1,6 +1,6 @@
 package chap07;
 
-public class DmbCellPhone extends CellPhone{//자식클래스
+public class DmbCellPhone extends CellPhone{//자식클래스 extends로 CellPhone을 상속받음
 	//필드
 	int channel;
 	
