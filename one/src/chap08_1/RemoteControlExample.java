@@ -10,7 +10,7 @@ public class RemoteControlExample {
 		RemoteControl rc = null;
 		
 		rc = new Televison();
-		rc.tur
+		//rc.turn
 
 	}
 

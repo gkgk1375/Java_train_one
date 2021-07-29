@@ -1,10 +1,10 @@
 package chap14.five.three;
 
-import java.util.Arrays;
+import java.util.*;
 import java.util.List;
 import java.util.function.ToIntFunction;
 
-import chap13.six.Student;
+
 
 public class FunctionExample2 {
 	private static List<Student> list = Arrays.asList(

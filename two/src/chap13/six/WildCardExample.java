@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class WildCardExample {
 	
-	public static void registerCourse( Course<?> course ) {// 전부다 불러옴
+	/*public static void registerCourse( Course<?> course ) {// 전부다 불러옴
 	
 		System.out.println(course.getName() + "수강생: " + Arrays.toString(course.getStudents()));
 	}
@@ -15,7 +15,7 @@ public class WildCardExample {
 		System.out.println(course.getName() + "수강생: " + Arrays.toString(course.getStudents()));
 	}
 	
-	public static void main(String[] args) {
+	  public static void main(String[] args) {
 		Course<Person> personCourse = new Course<Person>("일반인 과정", 5); // 배열이 5개 생성됨
 		personCourse.add(new Person("일반인"));
 		personCourse.add(new Worker("직장인"));
@@ -47,7 +47,7 @@ public class WildCardExample {
 		registerCourseWorker(personCourse);
 		registerCourseWorker(workerCourse);
 		
-	}
+	}*/
 	
 
 }
