@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="100" prefWidth="400" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField prefHeight="23" prefWidth="233" translateX="20" translateY="40" />
+      <Button mnemonicParsing="false" prefHeight="21" prefWidth="57" text="Button" translateX="70" translateY="40" />
+   </children>
+</HBox>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField translateX="15.0" translateY="58.0" />
+      <Button mnemonicParsing="false" prefHeight="23.0" prefWidth="76.0" text="Button" translateX="100.0" translateY="90.0" />
+      <Slider translateX="-160.0" translateY="95.0" />
+   </children>
+</HBox>
